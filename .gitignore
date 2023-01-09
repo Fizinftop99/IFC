@@ -19,3 +19,7 @@ ipython_config.py
 *.xml
 *.iml
 *.ifc
+*.graphml
+*.csv
+*.xls
+*.xlsx
